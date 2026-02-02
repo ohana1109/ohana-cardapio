@@ -1,5 +1,5 @@
 backend:
-  name: git-gatway
+  name: git-gateway
   repo: ohana1109/ohana-cardapio        # ex: jonybether/ohana-cardapio
   branch: main                     # ou master
 
